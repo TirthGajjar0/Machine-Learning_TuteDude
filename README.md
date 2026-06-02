@@ -1,6 +1,6 @@
-# Machine Learning Course Assignments
+# Machine Learning Course
 
-This repository contains assignments, practical exercises, and projects completed as part of my Machine Learning learning journey.
+This repository contains assignments, practical exercises, and projects completed as part of my Machine Learning course journey.
 
 ## Goal
 To build a strong foundation in Machine Learning through hands-on practice and real-world datasets while documenting my learning progress.
