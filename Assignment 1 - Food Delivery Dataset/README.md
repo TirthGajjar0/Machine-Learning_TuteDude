@@ -32,6 +32,15 @@ This project applies Machine Learning techniques to analyze food delivery operat
 - Scikit-learn
 - Matplotlib
 
+## Limitations
+The dataset contained only 200 records, which limited the model's ability to learn complex patterns. Additionally, some factors that significantly influence delivery time may not have been included in the dataset. As a result, model performance was moderate, particularly for Linear Regression.
+
+Future improvements could include:
+- Using a larger dataset
+- Adding more relevant features
+- Trying advanced models such as Random Forest or XGBoost
+- Performing hyperparameter tuning
+  
 ## Key Learning Outcomes
 - For better model performance more data is needed
 - Handling and preprocessing real-world datasets
