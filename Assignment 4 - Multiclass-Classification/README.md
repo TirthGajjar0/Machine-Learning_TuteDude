@@ -1,4 +1,4 @@
-# Assignment 4 - Pollution Severity Classification
+# Assignment 4 - Pollution Severity Classification using NAIVE BAYES, KNN, DECISION TREE
 
 ## Overview
 
