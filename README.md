@@ -68,9 +68,6 @@ Machine-Learning-Learning-Journey/
 ├── Assignment-05-Clustering-and-Neural-Networks
 ├── Assignment-06-Environmental-Clustering-and-ANN
 ├── Assignment-07-CNN-Classification
-├── Assignment-08-Association-Rule-Mining
-├── Assignment-09-SVM-Deforestation-Analysis
-│
 └── README.md
 ```
 
