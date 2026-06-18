@@ -119,6 +119,8 @@ Through these assignments and case studies, I gained practical experience in:
 * Extracting actionable insights from data
 
 ---
+## Certificate: 
+certificate_TD-TIRT-ML-1140.pdf
 
 ## Note
 
